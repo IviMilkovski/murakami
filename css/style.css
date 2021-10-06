@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Crimson+Text&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Caladea&display=swap');
+
+*{
+    padding:0;
+    box-sizing: border-box;
+    font-size: 19px;
+    scroll-behavior: smooth;
+}
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px rgb(0, 21, 44); 
+  border-radius: 13px;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 12, 49, 0.904); 
+  border-radius: 13px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #064558d0; 
+}
+
+body{
+  font-family: 'Caladea', serif;
+}
+ul{
+  list-style-type: none;
+}
+  .row{
+      margin:0px;
+  }
+  .container-fluid {
+    padding: 0px;
+  }
+  a {
+    text-decoration: none !important;
+  }
+  .logo {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 34px;
+    color: rgb(43, 92, 138) !important;
+  }
+
+  .nav-link{
+      color: rgb(43, 92, 138) !important;
+      font-size: 21px;
+  }
+  .nav-link:hover{
+    color: darkslategrey !important;
+  }
+  #slovo{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 35px;
+    color: rgb(22, 30, 73) !important;
+  }
+  .naslov{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+    color: darkslategrey;
+    border-bottom: 1px solid black;
+  }
+  .oldPrice{
+    font-size: 15px !important;
+    color: gray !important;
+  }
+  .newPrice{
+    font-size: 22px !important;
+    color: rgb(0, 39, 75) !important;
+  }
+
+.kartice{
+  max-height: 400px !important;
+}
+
+.sf{
+  background-image: linear-gradient(darkslategrey, rgba(14, 36, 56, 0.87)) !important;
+}
+
+
+.greska{
+  color: darkred;
+}
+#uspeh{
+  color: rgb(0, 69, 90);
+  font-size: 20px;
+  padding: 10px;
+}
+
+.zve{
+  color: rgb(151, 5, 5);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  #futer{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(14, 36, 56, 0.87);
+}
+.fut{
+    width: 100%;
+}
+  #scrollToTop
+{
+    position:fixed;
+	right:2px;
+    bottom:25px;
+    font-size: 40px;
+    padding: 10px;
+}
+
+.cart{
+  padding: 20px;
+  margin: 0px auto;
+}
+
+.cartRow{
+width: 100%;
+margin: 0px auto;
+}
+
+#cartItems{
+  margin: 0px auto;
+}
+
+#cartItems th{
+  padding: 10px;
+  background-color: rgb(234, 234, 255);
+}
+#cartItems td{
+  padding: 10px;
+  background-color: rgb(235, 235, 235);
+}
+
+
+.rec{
+  color: rgb(2, 53, 95);
+  font-size: 21px;
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Magical Realisam"
+    },
+    {
+        "id":2,
+        "name":"Contemporary"
+    },
+    {
+        "id":3,
+        "name":"Fiction"
+    },
+    {
+        "id":4,
+        "name":"Non-fiction"
+    },
+    {
+        "id":5,
+        "name":"Fantasy"
+    }
+]

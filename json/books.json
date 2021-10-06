@@ -1,0 +1,309 @@
+[
+    {
+        "id":1,
+        "name":"After Dark",
+        "recommend":false,
+        "description":"A short, sleek novel of encounters set in Tokyo during the witching hours between midnight and dawn, and every bit as gripping as Haruki Murakami’s masterworks The Wind-Up Bird Chronicle and Kafka on the Shore. At its center are two sisters—Eri, a fashion model slumbering her way into oblivion, and Mari, a young student soon led from solitary reading at an anonymous Denny’s toward people whose lives are radically alien to her own: a jazz trombonist who claims they’ve met before, a bsrcy female “love hotel” manager and her maid staff, and a Chinese prostitute savagely brutalized by a businessman. These “night people” are haunted by secrets and needs that draw them together more powerfully than the differing circumstances that might keep them apart, and it soon becomes clear that Eri’s slumber—mysteriously tied to the businessman plagued by the mark of his crime—will either restore or annihilate her.",
+        "price":15,
+        "category":[
+            {
+                "id":1,
+                "name":"Magical realisam"
+            },{
+                "id":2,
+                "name":"Contemporary"
+            },{
+                "id":3,
+                "name":"Fiction"
+            }
+        ],
+        "image":{
+            "src":"images/book1.jpg",
+            "alt":"After Dark"
+        }
+    },
+    {
+        "id":2,
+        "name":"Sputnik Sweetheart",
+        "recommend":false,
+        "description":"Sumire is in love with a woman seventeen years her senior. But whereas Miu is glamorous and successful, Sumire is an aspiring writer who dresses in an oversized second-hand coat and heavy boots like a character in a Kerouac novel. Sumire spends hours on the phone talking to her best friend K about the big questions in life: what is sexual desire, and should she ever tell Miu how she feels for her? Meanwhile K wonders whether he should confess his own unrequited love for Sumire.Then, a desperate Miu calls from a small Greek island: Sumire has mysteriously vanished...",
+        "price":15,
+        "category":[{
+                "id":2,
+                "name":"Contemporary"
+            },{
+                "id":3,
+                "name":"Fiction"
+            }
+        ],
+        "image":{
+            "src":"images/book2.jpg",
+            "alt":"Sputnik Sweetheart"
+        }
+    },
+    {
+        "id":3,
+        "name":"South of the Border, West of the Sun",
+        "recommend":false,
+        "description":"Growing up in the suburbs of post-war Japan, it seemed to Hajime that everyone but him had brothers and sisters. His sole companion was Shimamoto, also an only child. Together they spent long afternoons listening to her father's record collection. But when his family moved away, the two lost touch. Now Hajime is in his thirties. After a decade of drifting he has found happiness with his loving wife and two daughters, and success running a jazz bar. Then Shimamoto reappears. She is beautiful, intense, enveloped in mystery. Hajime is catapulted into the past, putting at risk all he has in the present.",
+        "price":17,
+        "category":[
+            {
+                "id":2,
+                "name":"Contemporary"
+            },{
+                "id":3,
+                "name":"Fiction"
+            }
+        ],
+        "image":{
+            "src":"images/book3.jpg",
+            "alt":"South of the Border, West of the Sun"
+        }
+    },
+    {
+        "id":4,
+        "name":"What I Talk About When I Talk About Running",
+        "recommend":false,
+        "description":"In 1982, having sold his jazz bar to devote himself to writing, Murakami began running to keep fit. A year later, he'd completed a solo course from Athens to Marathon, and now, after dozens of such races, not to mention triathlons and a dozen critically acclaimed books, he reflects upon the influence the sport has had on his life and--even more important--on his writing. Equal parts training log, travelogue, and reminiscence, this revealing memoir covers his four-month preparation for the 2005 New York City Marathon and takes us to places ranging from Tokyo's Jingu Gaien gardens, where he once shared the course with an Olympian, to the Charles River in Boston among young women who outpace him. Through this marvelous lens of sport emerges a panorama of memories and insights: the eureka moment when he decided to become a writer, his greatest triumphs and disappointments, his passion for vintage LPs, and the experience, after fifty, of seeing his race times improve and then fall back. By turns funny and sobering, playful and philosophical, What I Talk About When I Talk About Running is rich and revelatory, both for fans of this masterful yet guardedly private writer and for the exploding population of athletes who find similar satisfaction in distance running.",
+        "price":16,
+        "category":[
+            {
+            "id":4,
+            "name":"Non-fiction"
+        }
+        ],
+        "image":{
+            "src":"images/book4.jpg",
+            "alt":"What I Talk About When I Talk About Running"
+        }
+    },
+    {
+        "id":5,
+        "name":"Underground",
+        "recommend":false,
+        "description":"It was a clear spring day, Monday, March 20, 1995, when five members of the religious cult Aum Shinrikyo conducted chemical warfare on the Tokyo subway system using sarin, a poison gas twenty-six times as deadly as cyanide. The unthinkable had happened, a major urban transit system had become the target of a terrorist attack. In an attempt to discover why, Haruki Murakami, internationally acclaimed author of The Wind-Up Bird Chronicle and arguably Japan’s most important contemporary novelist, talked to the people who lived through the catastrophe—from a Subway Authority employee with survivor guilt, to a fashion salesman with more venom for the media than for the perpetrators, to a young cult member who vehemently condemns the attack though he has not quit Aum. Through these and many other voices, Murakami exposes intriguing aspects of the Japanese psyche. And as he discerns the fundamental issues leading to the attack, we achieve a clear vision of an event that could occur anytime, anywhere. Hauntingly compelling and inescapably important, Underground is a powerful work of journalistic literature from one of the world’s most perceptive writers.",
+        "price": 10,
+        "category":[
+            {
+            "id":4,
+            "name":"Non-fiction"
+        }
+        ],
+        "image":{
+            "src":"images/book5.jpg",
+            "alt":"Underground"
+        }
+    },
+    {
+        "id":6,
+        "name":"Hear the Wind Sing",
+        "recommend":false,
+        "description":"Hear the Wind Sing is the first novel by Haruki Murakami; it first appeared in the June 1979 issue of Gunzo, one of the most influential literary magazines in Japan.It is the first of the 'boku' tetralogy; translated by Alfred Birnbaum.",
+        "price": 10,
+        "category":[
+            {
+            "id":3,
+            "name":"Fiction"
+        }
+        ],
+        "image":{
+            "src":"images/book6.jpg",
+            "alt":"Hear the Wind Sing"
+        }
+    },
+    {
+        "id":7,
+        "name":"The Wind-Up Bird Chronicle",
+        "recommend":true,
+        "description":"In a Tokyo suburb a young man named Toru Okada searches for his wife's missing cat. Soon he finds himself looking for his wife as well in a netherworld that lies beneath the placid surface of Tokyo. As these searches intersect, Okada encounters a bizarre group of allies and antagonists: a psychic prostitute; a malevolent yet mediagenic politician; a cheerfully morbid sixteen-year-old-girl; and an aging war veteran who has been permanently changed by the hideous things he witnessed during Japan's forgotten campaign in Manchuria. Gripping, prophetic, suffused with comedy and menace, The Wind-Up Bird Chronicle is a tour de force equal in scope to the masterpieces of Mishima and Pynchon.",
+        "price":20,
+        "category":[
+            {
+                "id":1,
+                "name":"Magical realisam"
+            },{
+                "id":3,
+                "name":"Fiction"
+            }
+        ],
+        "image":{
+            "src":"images/book7.jpg",
+            "alt":"The Wind-Up Bird Chronicle"
+        }
+    },
+    {
+        "id":8,
+        "name":"Hard-Boiled Wonderland and the End of the World",
+        "recommend":true,
+        "description":"A narrative particle accelerator that zooms between Wild Turkey Whiskey and Bob Dylan, unicorn skulls and voracious librarians, John Coltrane and Lord Jim. Science fiction, detective story and post-modern manifesto all rolled into one rip-roaring novel, Hard-Boiled Wonderland and the End of the World is the tour de force that expanded Haruki Murakami's international following. Tracking one man's descent into the Kafkaesque underworld of contemporary Tokyo, Murakami unites East and West, tragedy and farce, compassion and detachment, slang and philosophy",
+        "price":18,
+        "category":[
+            {
+                "id":1,
+                "name":"Magical realisam"
+            },{
+                "id":3,
+                "name":"Fiction"
+            }
+        ],
+        "image":{
+            "src":"images/book8.jpg",
+            "alt":"Hard-Boiled Wonderland and the End of the World"
+        }
+    },
+    {
+        "id":9,
+        "name":"Blind Willow, Sleeping Woman",
+        "recommend":false,
+        "description":"Collection of twenty-four stories that generously expresses Murakami’s mastery of the form. From the surreal to the mundane, these stories exhibit his ability to transform the full range of human experience in ways that are instructive, surprising, and relentlessly entertaining. Here are animated crows, a criminal monkey, and an iceman, as well as the dreams that shape us and the things we might wish for. Whether during a chance reunion in Italy, a romantic exile in Greece, a holiday in Hawaii, or in the grip of everyday life, Murakami’s characters confront grievous loss, or sexuality, or the glow of a firefly, or the impossible distances between those who ought to be closest of all.",
+        "price":13,
+        "category":[
+            {
+                "id":3,
+                "name":"Fiction"
+            }
+        ],
+        "image":{
+            "src":"images/book9.jpg",
+            "alt":"Blind Willow, Sleeping Woman"
+        }
+    },
+    {
+        "id":10,
+        "name":"Men Without Women",
+        "recommend":true,
+        "description":"A dazzling new collection of short stories--the first major new work of fiction from the beloved, internationally acclaimed, Haruki Murakami since his #1 best-selling Colorless Tsukuru Tazaki and His Years of Pilgrimage. Across seven tales, Haruki Murakami brings his powers of observation to bear on the lives of men who, in their own ways, find themselves alone. Here are vanishing cats and smoky bars, lonely hearts and mysterious women, baseball and the Beatles, woven together to tell stories that speak to us all. Marked by the same wry humor that has defined his entire body of work, in this collection Murakami has crafted another contemporary classic.",
+        "price":17,
+        "category":[
+            {
+                "id":3,
+                "name":"Fiction"
+            }
+        ],
+        "image":{
+            "src":"images/book10.jpg",
+            "alt":"Men Without Women"
+        }
+    },
+    {
+        "id":11,
+        "name":"Norwegian Wood",
+        "recommend":true,
+        "description":"Toru, a quiet and preternaturally serious young college student in Tokyo, is devoted to Naoko, a beautiful and introspective young woman, but their mutual passion is marked by the tragic death of their best friend years before. Toru begins to adapt to campus life and the loneliness and isolation he faces there, but Naoko finds the pressures and responsibilities of life unbearable. As she retreats further into her own world, Toru finds himself reaching out to others and drawn to a fiercely independent and sexually liberated young woman. A magnificent blending of the music, the mood, and the ethos that was the sixties with the story of one college student's romantic coming of age, Norwegian Wood brilliantly recaptures a young man's first, hopeless, and heroic love.",
+        "price":16,
+        "category":[
+            {
+                "id":2,
+                "name":"Contemporary"
+            },{
+                "id":3,
+                "name":"Fiction"
+            }
+        ],
+        "image":{
+            "src":"images/book11.jpg",
+            "alt":"Norwegian Wood"
+        }
+    },
+    {
+        "id":12,
+        "name":"The Elephant Vanishes",
+        "recommend":false,
+        "description":"With the same deadpan mania and genius for dislocation that he brought to his internationally acclaimed novels A Wild Sheep Chase and Hard-Boiled Wonderland and the End of the World, Haruki Murakami makes this collection of stories a determined assault on the normal. A man sees his favorite elephant vanish into thin air; a newlywed couple suffers attacks of hunger that drive them to hold up a McDonald's in the middle of the night; and a young woman discovers that she has become irresistible to a little green monster who burrows up through her backyard. By turns haunting and hilarious, The Elephant Vanishes is further proof of Murakami's ability to cross the border between separate realities -- and to come back bearing treasure.",
+        "price":15,
+        "category":[
+            {
+                "id":1,
+                "name":"Magical realisam"
+            },{
+                "id":3,
+                "name":"Fiction"
+            }
+        ],
+        "image":{
+            "src":"images/book12.jpg",
+            "alt":"The Elephant Vanishes"
+        }
+    },
+    {
+        "id":13,
+        "name":"Killing Commendatore",
+        "recommend":false,
+        "description":"In Killing Commendatore, a thirty-something portrait painter in Tokyo is abandoned by his wife and finds himself holed up in the mountain home of a famous artist, Tomohiko Amada. When he discovers a previously unseen painting in the attic, he unintentionally opens a circle of mysterious circumstances. To close it, he must complete a journey that involves a mysterious ringing bell, a two-foot-high physical manifestation of an Idea, a dapper businessman who lives across the valley, a precocious thirteen-year-old girl, a Nazi assassination attempt during World War II in Vienna, a pit in the woods behind the artist’s home, and an underworld haunted by Double Metaphors. A tour de force of love and loneliness, war and art—as well as a loving homage to The Great Gatsby—Killing Commendatore is a stunning work of imagination from one of our greatest writers.",
+        "price":21,
+        "category":[
+            {
+                "id":1,
+                "name":"Magical realisam"
+            },{
+                "id":3,
+                "name":"Fiction"
+            }
+        ],
+        "image":{
+            "src":"images/book13.jpg",
+            "alt":"Killing Commendatore"
+        }
+    },
+    {
+        "id":14,
+        "name":"1Q84",
+        "recommend":true,
+        "description":"The year is 1984 and the city is Tokyo. A young woman named Aomame follows a taxi driver’s enigmatic suggestion and begins to notice puzzling discrepancies in the world around her. She has entered, she realizes, a parallel existence, which she calls 1Q84 —“Q is for ‘question mark.’ A world that bears a question.” Meanwhile, an aspiring writer named Tengo takes on a suspect ghostwriting project. He becomes so wrapped up with the work and its unusual author that, soon, his previously placid life begins to come unraveled. As Aomame’s and Tengo’s narratives converge over the course of this single year, we learn of the profound and tangled connections that bind them ever closer: a beautiful, dyslexic teenage girl with a unique vision; a mysterious religious cult that instigated a shoot-out with the metropolitan police; a reclusive, wealthy dowager who runs a shelter for abused women; a hideously ugly private investigator; a mild-mannered yet ruthlessly efficient bodyguard; and a peculiarly insistent television-fee collector.",
+        "price":26,
+        "category":[
+            {
+                "id":1,
+                "name":"Magical realisam"
+            },{
+                "id":3,
+                "name":"Fiction"
+            }
+        ],
+        "image":{
+            "src":"images/book14.jpg",
+            "alt":"1Q84"
+        }
+    },
+    {
+        "id":15,
+        "name":"Kafka on the Shore",
+        "recommend":true,
+        "description":"Kafka on the Shore, a tour de force of metaphysical reality, is powered by two remarkable characters: a teenage boy, Kafka Tamura, who runs away from home either to escape a gruesome oedipal prophecy or to search for his long-missing mother and sister; and an aging simpleton called Nakata, who never recovered from a wartime affliction and now is drawn toward Kafka for reasons that, like the most basic activities of daily life, he cannot fathom. Their odyssey, as mysterious to them as it is to us, is enriched throughout by vivid accomplices and mesmerizing events. Cats and people carry on conversations, a ghostlike pimp employs a Hegel-quoting prostitute, a forest harbors soldiers apparently unaged since World War II, and rainstorms of fish (and worse) fall from the sky. There is a brutal murder, with the identity of both victim and perpetrator a riddle—yet this, along with everything else, is eventually answered, just as the entwined destinies of Kafka and Nakata are gradually revealed, with one escaping his fate entirely and the other given a fresh start on his own. ",
+        "price":18,
+        "category":[
+            {
+                "id":1,
+                "name":"Magical realisam"
+            },{
+                "id":3,
+                "name":"Fiction"
+            }
+        ],
+        "image":{
+            "src":"images/book15.jpg",
+            "alt":"Kafka on the Shore"
+        }
+    },
+    {
+        "id":16,
+        "name":"Dance Dance Dance",
+        "recommend":false,
+        "description":"High-class call girls billed to Mastercard. A psychic 13-year-old dropout with a passion for Talking Heads. A hunky matinee idol doomed to play dentists and teachers. A one-armed beach-combing poet, an uptight hotel clerk and one very bemused narrator caught in the web of advanced capitalist mayhem. Combine this offbeat cast of characters with Murakami's idiosyncratic prose and out comes Dance Dance Dance.",
+        "price":16,
+        "category":[
+            {
+                "id":1,
+                "name":"Magical realisam"
+            },{
+                "id":3,
+                "name":"Fiction"
+            }
+        ],
+        "image":{
+            "src":"images/book16.jpg",
+            "alt":"Dance Dance Dance"
+        }
+    }
+]
